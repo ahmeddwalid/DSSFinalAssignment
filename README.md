@@ -2,7 +2,7 @@
 
 **Lecturer:** Prof. Dr. Ayman Adel Abdel-Hamid
 
-**TAs:** Mohamed Dwidar
+**TA:** Mohamed Dwidar
 
 **Date:** May 2025
 
